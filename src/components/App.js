@@ -1,4 +1,6 @@
 import "../styles/App.css";
+import React from "react";
+
 const App = () => {
   // const addEventHandler = true;
 
